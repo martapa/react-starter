@@ -4,9 +4,9 @@
 
 #### Basic commands
 1. Clone repository
-`git clone blabla`
+`git clone https://github.com/martapa/react-starter.git`
 2. Go into the folder
-`cd folder_name`
+`cd react-starter`
 3. Install all dependencies
 `npm install`
 4. Bundle files
