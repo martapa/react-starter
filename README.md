@@ -22,6 +22,12 @@ To start over and clean your project.
 To test the app.
 `npm test`
 
+To start server without ESLint
+`npm run-script start-server`
+
+To run ESLint
+`npm run-script lint`
+
 ## Folder structure
 
 * __package.json__ -list of node dependencies needed.
@@ -33,7 +39,8 @@ To test the app.
 * __src/setupTests.js__ -file with Enzyme configuration.
 * __.babelrc__ -babel configuration file.
 * __.webpack.config.js__ -simple webpack configuration file.
-* **__tests__** -folder with future Jest or Enzyme tests.
+* **src/__tests__** -folder with future Jest or Enzyme tests.
+
 
 ## More info
 
